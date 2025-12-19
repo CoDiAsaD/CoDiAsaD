@@ -6,7 +6,7 @@
 - 🔄 Currently migrating and consolidating my project portfolio to GitHub
 - 🌱 Always exploring new technologies in aerospace engineering and embedded development
 - 🎯 Looking to collaborate on aviation, aerospace, and embedded systems projects
-- 📫 How to reach me: [Your preferred contact method]
+
 
 ## 🛠️ Tech Stack
 
@@ -64,9 +64,11 @@
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email)
+<a href="https://www.linkedin.com/in/asadcse/">
+  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" />
+</a>
 
----
+<hr />
+
 
 ✈️ Building the future of aerospace technology, one commit at a time | ⭐️ From [CoDiAsaD](https://github.com/CoDiAsaD)
